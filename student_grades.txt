@@ -1,0 +1,8 @@
+Alice Johnson|S1001|95.00|88.00|92.00|91.67|A
+Jessica James|S3002|87.00|98.00|100.00|95.00|A
+Robert Curtis|S1887|87.00|90.00|75.00|84.00|B
+Aaliyah Jackson|S1009|70.00|80.00|100.00|83.33|B
+Alice Johnson|S1002|87.00|85.00|100.00|90.67|A
+Jessica James|S1890|88.00|75.00|98.00|87.00|B
+Robert Curtis|S2367|75.00|80.00|95.00|83.33|B
+Aaliyah Jackson|S1094|100.00|80.00|70.00|83.33|B
